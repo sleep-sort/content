@@ -1,5 +1,6 @@
 ## 1% is halfway 
 ##### Note: I took this from aurastrategic.com - I do not own any of this writing. I added it to my personal github because it was taken down from aurastrategic and I wanted to keep it somewhere I could reference publicly - if you are the owner of this content and would like it taken down from my github please send me an email and I will remove it immediately! 
+---
 
 ### The world is changing rapidly. The rate of change is itself changing—accelerating rapidly into a future we can scarcely imagine. This can be unnerving, because as humans, we are not very good at understanding exponential growth. 
 
@@ -22,6 +23,8 @@
 #### “…it is only linear predictions of the future that feel intuitively believable to their readers. Most people… simply cannot handle exponential.” (Scott-Morgan, 2012) 
 
 ### A related problem is that early stages of exponential growth look suspiciously like very shallow linear growth: Executives who do not recognize an exponential growth pattern and the vastly greater outcome that will occur in the last 2-3 generations of growth may attempt to correct the perceived shallow rate of linear growth. In so doing, they may increase production at the expense of investing in production capacity. Their good intent may doom the outcome, if they find they are unable to sustain an accelerated rate of linear growth and they achieve neither the exponential outcome (for lack of building exponential capacity) nor the linear outcome (for lack of production capacity). 
+---
+
 
 ## The Solution 
 
