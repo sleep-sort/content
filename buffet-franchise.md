@@ -1,5 +1,6 @@
 **Taken from a Warren Buffett annual letter in the 90s
 **
+<br>
 An economic franchise arises from a product or service that: 
 (1) is needed or desired; 
 (2) is thought by its customers to have no close substitute and; 
